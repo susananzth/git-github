@@ -6,5 +6,7 @@ plugins:
 
 title: Git y GitHub
 description: Anotaciones de cursos de Git y GitHub
+show_downloads: true
+google_analytics: true
 
 baseurl: "/git-github"
