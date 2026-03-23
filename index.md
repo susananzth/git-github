@@ -9,3 +9,4 @@ title: Git y GitHub
 
 - [Módulo 1 — ¿Qué es Git? y configuración inicial](./modulo-1.html).
 - [Módulo 2 — Comandos básicos y flujo de trabajo](./modulo-2.html).
+- [Módulo 3 — Uso de GitHub](./modulo-3.html).
